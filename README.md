@@ -1,5 +1,5 @@
 - 👋 Bonjour
-- 🌱 I’m currently learning Vue.js
+- 🌱 Experienced Angular / Vue developer
 - 💞️ I’m looking to collaborate on any JavaScript framework
 - 📫 Reach me at https://github.com/var-commits
 
